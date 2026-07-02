@@ -15,4 +15,4 @@ spec:
   - group: '*'
     kind: '*'
   sourceRepos:
-  - https://github.com/akuity/kargo-advanced.git
+  - https://github.com/yangjie500/kargo-advanced.git
